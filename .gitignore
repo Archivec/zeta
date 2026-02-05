@@ -1,0 +1,27 @@
+# Dependencies
+.venv
+
+# Dataset
+repos/
+seeds/
+prompts/
+eval/
+train/
+train_original/
+
+*.jsonl
+
+# IDE
+.zed
+.idea
+.cursor
+
+# AI
+.claude
+
+# Generated
+__pycache__/
+.DS_Store
+
+# Environment
+.env
