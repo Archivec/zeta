@@ -8,6 +8,7 @@ prompts/
 eval/
 train/
 train_original/
+run/models/
 
 *.jsonl
 
